@@ -1705,7 +1705,7 @@ input, select, textarea {
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
 			height: calc(36vh - 2em);
-			min-height: 20em;
+			min-height: 15em;
 			width: 25%;
 		}
 
