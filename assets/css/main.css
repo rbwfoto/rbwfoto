@@ -54,15 +54,11 @@ h3 {    font-size: 2rem;    text-align: center;    margin: 0 0 40px 0;  }
   
   /* Style the images inside the grid */
 a img {
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
-  opacity: 1; 
+  opacity: 0.8; 
   cursor: pointer; 
 }
 
 a img:hover {
-      -webkit-filter: none; /* Safari 6.0 - 9.0 */
-  filter: none;
   opacity: 1;
 }
   
