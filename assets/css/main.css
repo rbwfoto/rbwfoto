@@ -1,4 +1,26 @@
- /* Kolom frontpage */
+/* frontpage */
+
+a {  color: white;  text-decoration: none; }
+
+a:hover {  color: #e93a65; }
+
+body {  color: white;    background-color: #212529;  }
+  
+#blog-pager {  display: none;  }
+
+h2 {    font-size: 1rem;    text-align: center;    margin: 40px 0 0 0;  }
+
+h3 {    font-size: 2rem;    text-align: center;    margin: 0 0 40px 0;  }
+   
+.col-sm-6 {  padding: 0;    margin: 0;  }
+  
+.row {  padding: 0;    margin: 0;  }
+  
+.row > * {  padding: 0;    margin: 0;  }
+
+
+
+/* Kolom */
   .col-sm-3 {
     padding: 0;
     margin: 0;
